@@ -22,14 +22,17 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## Objetivos completados neste desafio:
-Requisitos funcionais
-✔️ O usuário deve ter acesso a uma listagem dos filmes mais populares do dia
-✔️ O usuário deve conseguir paginar a lista para encontrar novos filmes
-✔️ O usuário deve ter acesso a uma outra página com detalhes sobre o filme, ao clicar em um item na listagem
-✔️ O usuário deve conseguir voltar para a página de listagem de filmes com os filtros ainda ativos
-Requisitos não funcionais
-✔️ O app deverá ser criado usando ReactI
-✔️ - Na raiz do projeto, será necessário incluir um arquivo README.md com as instruções para construir seu projeto localmente. Opcionalmente você pode detalhar as razões pelas escolhas de ferramentas e técnicas aplicadas ao desafio.
-✔️ O app deverá se comportar da mesma forma na última versão estável dos seguintes browsers: Chrome, Firefox, Edge
-✔️ O app deverá ser responsivo
+### Objetivos concluídos neste desafio: 
+
+#####  Requisitos funcionais
+   ##### ✔️ O usuário deve ter acesso a uma listagem dos filmes mais populares do dia
+   ##### ✔️ O usuário deve conseguir paginar a lista para encontrar novos filmes
+   ##### ✔️ O usuário deve ter acesso a uma outra página com detalhes sobre o filme, ao clicar em um item na listagem
+  ##### ✔️ O usuário deve conseguir voltar para a página de listagem de filmes com os filtros ainda ativos
+ #####  Requisitos não funcionais
+  ##### ✔️ O app deverá ser criado usando [React](https://reactjs.org/)I
+  ##### ✔️ -   Na raiz do projeto, será necessário incluir um arquivo  `README.md`  com as instruções para construir seu projeto localmente. Opcionalmente você pode detalhar as razões pelas escolhas de ferramentas e técnicas aplicadas ao desafio.
+  ##### ✔️ O app deverá se comportar da mesma forma na última versão estável dos seguintes browsers: Chrome, Firefox, Edge
+  ##### ✔️ O app deverá ser responsivo
+ 
+
