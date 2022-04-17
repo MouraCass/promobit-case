@@ -38,3 +38,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
  
 
 Projeto Baseado no Case da [Promobit]. 
+
+Att. Cassiano Moura - Full-Stack Developer
