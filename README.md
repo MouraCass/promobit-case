@@ -33,7 +33,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   ##### ✔️ O app deverá se comportar da mesma forma na última versão estável dos seguintes browsers: Chrome, Firefox, Edge
   ##### ✔️ O app deverá ser responsivo
  
-
+#
  Desafio proposto para conclusão do Curso Full-Stack Development da [Labenu](https://www.labenu.com.br/), foi enriquecedor minha experiência ao longo do curso. ♥
+ 
 
 Projeto Baseado no Case da [Promobit]. 
