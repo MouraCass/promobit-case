@@ -5,6 +5,10 @@ O objetivo do projeto é listar os filmes mais populares da The Movie Data Base(
 
 
 
+⚙️ Deploy Vercel
+
+Acesse aqui o deploy da aplicação no [Vercel](https://promobit-case1.vercel.app/).
+
 
 ##  Tecnologias
 
